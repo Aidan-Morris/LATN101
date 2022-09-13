@@ -13,8 +13,8 @@ ip: audibantur.
 3s -- capio.
 pa: cepit.
 pp: captus est.
-ia: capebat.❌
-ip: capebantur.❌
+ia: capebat.❌capiebat
+ip: capebantur.❌capiebatur
 
 1. uenerunt - plaural, perfect, active - uenio.
 2. interfectus est - singular, perfect, passive - interficio.
