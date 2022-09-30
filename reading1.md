@@ -6,7 +6,7 @@ ceto *Hesione* **apposita est** Troiae.
 `eum` **occidit**; `Laomedonta`, `patrem` Hesiones, quod `eam` non **reddebat**, sagittis **interfecit**.
 
 Hercules massacred Antaeus, son of the earth, in Libya.
-Hercules killed the guests; he wrestled them to death.
+Antaeus used to kill guests; he wrestled them to death.
 He massacred Cygnus, Mars' son, with his bare arms.
 Afterwards, Mars came and, using his arms, fought his son along with him, but Jupiter sent his thunderbolt between them.
 Hesione was put next to Troy by a whale.
