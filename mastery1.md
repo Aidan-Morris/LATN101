@@ -5,19 +5,19 @@ Singular
 Case|Masculine|Feminine|Neuter
 ---|----|----|----
 Nominative|prior deus
-Genitive|prior dei
-Dative|prior deo
-Accusative|prior deum
-Ablative|prior deo
+Genitive|prioris dei
+Dative|priori deo
+Accusative|priorem deum
+Ablative|priori deo
 
 Plural
 Case|Masculine|Feminine|Neuter
 ---|----|----|----
-Nominative|prior dei
-Genitive|prior deorum
-Dative|prior deis
-Accusative|prior deos
-Ablative|prior deis
+Nominative|priores dei
+Genitive|priorium deorum
+Dative|prioribus deis
+Accusative|priores deos
+Ablative|prioribus deis
 
 **former-mentioned ship**
 
