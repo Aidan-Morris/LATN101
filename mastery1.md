@@ -1,5 +1,6 @@
+**+1 Needs revisions**
 
-**previous god**
+**previous god**✅
 
 Singular
 Case|Masculine|Feminine|Neuter
@@ -35,11 +36,11 @@ Case|Masculine|Feminine|Neuter
 ---|----|----|----
 Nominative|-|illae naues
 Genitive|-|illarum nauium
-Dative|-|illis naui
-Accusative|-|illas nauem
-Ablative|-|illis naue
+Dative|-|illis naui❌
+Accusative|-|illas nauem❌
+Ablative|-|illis naue❌
 
-**capio** (feminine)
+**capio** (feminine) ✅
 
 Tense and Voice|Form
 ---|----
@@ -48,7 +49,7 @@ Imperfect passive|capiebatur
 Perfect active|cepit
 Perfect passive|capta est
 
-**uideo** (neuter)
+**uideo** (neuter) ✅
 
 Tense and Voice|Form
 ---|----
