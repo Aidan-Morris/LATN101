@@ -37,9 +37,9 @@ Case|Masculine|Feminine|Neuter
 ---|----|----|----
 Nominative|-|illae naues
 Genitive|-|illarum nauium
-Dative|-|illis naui❌
-Accusative|-|illas nauem❌
-Ablative|-|illis naue❌
+Dative|-|illis nauibus❌
+Accusative|-|illas naues❌
+Ablative|-|illis nauibus❌
 
 **capio** (feminine) ✅
 
