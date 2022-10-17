@@ -8,13 +8,13 @@
 ceto *Hesione* **apposita est** Troiae.
 `eum` **occidit**; `Laomedonta`, `patrem` Hesiones, quod `eam` non **reddebat**, sagittis **interfecit**.
 
-Hercules massacred Antaeus, son of the earth, in Libya.
+Hercules killed Antaeus, son of the earth, in Libya.
 Antaeus used to kill guests; he wrestled them to death.
-He massacred Cygnus, Mars' son, with weapons.❌ **Maybe a bad note on my part: *arma* is "arms" in the sense of "weapons" rather than "part of the body**
+Hercules killed Cygnus, Mars' son, with weapons.❌ **Maybe a bad note on my part: *arma* is "arms" in the sense of "weapons" rather than "part of the body**
 Afterwards, Mars came and, using his weapons❌, fought with Hercules on account of his son, but Jupiter sent his thunderbolt between them.
 
 Hesione was put next to a whale at Troy.❌
-Hercules massacred it; He also killed Laomedon, Hesione's father, with arrows because he did return her to him.❌
+Hercules massacred it; He also killed Laomedon, Hesione's father, with arrows because he did return her.❌
 
 1. To what declension does Antaeum belong to?
     Anataeum belongs to the second declension. ✅
