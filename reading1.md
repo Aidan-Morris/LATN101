@@ -12,7 +12,7 @@ Antaeus used to kill guests; he wrestled them to death.
 He massacred Cygnus, Mars' son, with weapons.❌ **Maybe a bad note on my part: *arma* is "arms" in the sense of "weapons" rather than "part of the body**
 Afterwards, Mars came and, using his weapons❌, fought with Hercules on account of his son, but Jupiter sent his thunderbolt between them.
 Hesione was put next to a whale at Troy.❌
-Hercules massacred it; He killed Laomedon, Hesione's father, with arrows because he did return her.❌
+Hercules massacred it; He also killed Laomedon, Hesione's father, with arrows because he did return her to him.❌
 
 1. To what declension does Antaeum belong to?
     Anataeum belongs to the second declension. ✅
