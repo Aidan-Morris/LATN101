@@ -10,4 +10,4 @@ Bacchus loved Ariadne and took her away in marriage for himself.
 Pelopia snatched the sword and thrust it into her own chest.
 Juno, Venus, and Minerva laid claim to new forms for themselves.
 Ulysses was tossed about by the waves. Leucothea gave him a belt and tied it to her own chest.
-The Achelous river changed itself into all forms. It fought with Hercules on account of Deianira's marriage, and turned itself around in the bull.
+The Achelous river changed itself into all forms. It fought with Hercules on account of Deianira's marriage, and turned around in bull form.
