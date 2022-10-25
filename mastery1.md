@@ -1,6 +1,16 @@
 **+1 Needs revisions**
 **Where is "Identifying verbs" section?**
 
+Antaeum, terrae filium, in Libyā Hercules *occidit*. hic hospites *interficiebat*; hunc luctando ille *necauit*. Cygnum, Martis filium, armis *occidit*. Mars *uenit* et armis propter filium *contendit* cum eo, sed Iouis inter eos fulmen *misit*.
+
+All verbs in this excerpt are 3rd person, indicative
+1. occidit - singular, perfect active
+2. interficiebat - singular, imperfect active
+3. necauit - singular, perfect active
+4. occidit - repeat
+5. uenit - singular, perfect active
+6. contendit - singular, perfect active
+7. misit - singular, perfect active
 
 **previous god**✅
 
