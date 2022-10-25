@@ -1,4 +1,4 @@
-**+1 Needs revisions**
+**+2 Satisfactory**
 
 3rd person singular -- amo.
 perfect active: amauit.
@@ -13,8 +13,8 @@ ip: audibantur.
 3s -- capio.
 pa: cepit.
 pp: captus est.
-ia: capiebat.❌
-ip: capiebantur.❌
+ia: capiebat.
+ip: capiebantur.
 
 1. uenerunt - plaural, perfect, active - uenio.
 2. interfectus est - singular, perfect, passive - interficio.
