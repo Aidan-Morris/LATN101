@@ -1,4 +1,4 @@
-**+1 Needs revisions**
+**+2 Satisfactory**
 
 `Antaeum`, terrae `filium`, in Libyā *Hercules* **occidit**.
 *hic* `hospites` **interficiebat**; `hunc` luctando *ille* **necauit**.
@@ -10,18 +10,18 @@ ceto *Hesione* **apposita est** Troiae.
 
 Hercules killed Antaeus, son of the earth, in Libya.
 Antaeus used to kill guests; he wrestled them to death.
-Hercules killed Cygnus, Mars' son, with weapons.❌ **Maybe a bad note on my part: *arma* is "arms" in the sense of "weapons" rather than "part of the body**
-Afterwards, Mars came and, using his weapons❌, fought with Hercules on account of his son, but Jupiter sent his thunderbolt between them.
+Hercules killed Cygnus, Mars' son, with weapons.❌ **Maybe a bad note on my part: *arma* is "arms" in the sense of "weapons" rather than "part of the body** ✅
+Afterwards, Mars came and, using his weapons, fought with Hercules on account of his son, but Jupiter sent his thunderbolt between them.
 
-Hesione was put next to a whale at Troy.❌
-Hercules massacred it; He also killed Laomedon, Hesione's father, with arrows because he did return her.❌
+Hesione was put next to a whale at Troy.
+Hercules massacred it; He also killed Laomedon, Hesione's father, with arrows because he did return her.
 
 1. To what declension does Antaeum belong to?
     Anataeum belongs to the second declension. ✅
 2. What case is terrae and what other noun is it working with?
     Terrae is in the genitive case, describing "filium." ✅
 3. What is the antecedent of hic?
-    Hic is referring to Antaeus.❌
+    Hic is referring to Antaeus.
 4. What case is armis?
     Armis is in the ablative case.✅
 5. Explain the construction of cum eo. ✅
@@ -30,5 +30,5 @@ Hercules massacred it; He also killed Laomedon, Hesione's father, with arrows be
     Fulmen is an accusative singular 3rd declension noun meaning that it is a direct object. In this sentence, the direct object is placed before the verb.✅ **Gender?**
 7. Fully identify the form of apposita est.  ❌ **How do we *fully identify* a finite verb?**
     Apposita est is 3rd person, singular, perfect passive, indicative.
-8. What is the antecedent of eam?
+8. What is the antecedent of eam? ✅
     Eam refers to her, Hesione.
