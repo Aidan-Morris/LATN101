@@ -5,6 +5,8 @@
 5. Ulysses fluctibus iactabatur; Leucothea balteum ei dedit et **sibi** pectus uinxit.
 6. Achelous fluuius in omnes figuras **se** immutabat. hic cum Hercule propter Deianirae coniugium pugnauit, et in taurum **se** conuertit.
 
+--------------
+
 1. Daedalus made wings for himself and his son Icarus.
 2. Bacchus loved Ariadne and took her away in marriage for himself.
 3. Pelopia took the sword and thrust it into her own chest.
