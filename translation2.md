@@ -14,7 +14,7 @@ B. Grammatical Questions
     Huic a demonstrative pronoun in the dative case, and it agrees with feminae.
 4. Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) 
     and the grammatical function of each word in the sentence.
-      Miserunt is a transitive passive verb.❌ 
+      Miserunt is a transitive active verb.❌ 
 5. Parse data est and indicate what conjugation the verb belongs to.
     3rd person, indicative, singular, perfect, active, 1st conjugation
 6. What type of grammatical construction is ab Iove?
