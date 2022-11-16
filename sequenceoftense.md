@@ -5,7 +5,7 @@
 3. When the Greeks **captured** the city, it was not yet dawn. (“When” refers to time, not circumstance).
     ceperunt
 5. Since the city **had been captured**, Aeneas fled with his family.
-    cepissetur
+    capta esset
 5. While the Greeks **were sacking** the city, fires raged.
     compilarent
 6. Although Cassandra **said**, again and again, that the horse was a trick, no one paid attention to her.
