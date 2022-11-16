@@ -1,3 +1,5 @@
+**+1 Needs minor revisions**
+
 A. Grammatical Analysis
 Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Simul *Vulcānus* ex lutō fēminam **faciēbat**.
 *Minerva* huic fēminae animam **dedit** et *omnēs* deī dōna eī **misērunt**. ob id nōmen “Pandōra” ei **datum est**. 
@@ -12,7 +14,7 @@ B. Grammatical Questions
     Huic a demonstrative pronoun in the dative case, and it agrees with feminae.
 4. Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) 
     and the grammatical function of each word in the sentence.
-      Miserunt is a transitive passive verb. 
+      Miserunt is a transitive passive verb.❌ 
 5. Parse data est and indicate what conjugation the verb belongs to.
     3rd person, indicative, singular, perfect, active, 1st conjugation
 6. What type of grammatical construction is ab Iove?
@@ -22,5 +24,5 @@ B. Grammatical Questions
 
 C. Translation
 Long ago, Prometheus, the first son of Iapetus, fashioned men out of mud. At the same time, Vulcanus made woman out of mud.
-Minerva gave a soul to the woman and all of the gods sent the gift to man. The name Pandora was given to her.
+Minerva gave a soul to the woman and all of the gods sent the gift to man❌. The name Pandora was given to her. **? *ob id*?**
 Pandora was given to Epimetheus in marriage by Jupiter. Their daughter was Pyrrha, the first mortal.
