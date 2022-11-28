@@ -1,15 +1,15 @@
 Cum *Achīvī* decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis equum ligneum **fēcit**. In eō **collēctī
 sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus*. et in
 equō **scripsērunt** “*DANAI* MINERVAE DONUM **DEDERUNT**, *castraque* **transtulērunt** Tenedo. Cum id
-*Troianī* **vidērunt**, Priamus equum in templum Minervae **duxit**. Cum Cassandra **diceret** equum habere
-hostes, fidēs eī non **data est** et equum pro templō **posuērunt**. Achīvī **exiērunt** et custodēs **occidērunt** et
+*Troianī* **vidērunt**, *Priamus* equum in templum Minervae **duxit**. Cum *Cassandra* **diceret** equum habere
+hostes, fidēs eī non **data est** et *equum* pro templō **posuērunt**. *Achīvī* **exiērunt** et custodēs **occidērunt** et
 Troiam **sunt** potitī.
 
 When the Greek leaders were in Troy for years, Epeus made a wooden horse of magnificent size.
 Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, and Neoptolemus were all gathered inside it.
 And on the horse they wrote, "The Greeks of Minerva give a gift", and they carried it from the military camp to Tenedo.
 When the Trojans saw it, Priamus led the horse to the temple of Minerva.
-Although Cassandra said that the horse held enemies, she was not given any faith, and the horse was still put in front of the temple.
+Although Cassandra said that the horse held enemies, she was not given any faith, and they still put the horse in front of the temple.
 The Greeks exited the horse and killed the guards and Troy was conquered.
 
 1. Highlighting finite verbs and subjects
