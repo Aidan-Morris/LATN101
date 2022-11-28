@@ -2,7 +2,7 @@ Cum *Achīvī* decem annōs in Troia **fuissent**, *Epeus* mirae magnitūdinis e
 sunt** *Menelaus, Ulixēs, Diomedes, Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus*. et in
 equō **scripsērunt** “*DANAI* MINERVAE DONUM **DEDERUNT**, *castraque* **transtulērunt** Tenedo. Cum id
 *Troianī* **vidērunt**, *Priamus* equum in templum Minervae **duxit**. Cum *Cassandra* **diceret** equum habere
-hostes, fidēs eī non **data est** et *equum* pro templō **posuērunt**. *Achīvī* **exiērunt** et custodēs **occidērunt** et
+hostes, fidēs eī non **data est** et equum pro templō **posuērunt**. *Achīvī* **exiērunt** et custodēs **occidērunt** et
 Troiam **sunt** potitī.
 
 When the Greek leaders were in Troy for years, Epeus made a wooden horse of magnificent size.
