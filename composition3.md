@@ -3,4 +3,4 @@
 3. Achiui duces in equo se abscondiderunt.
 4. Cassandra dicebat hostes in equo esse, sed nemo eam credidit.
 5. Troiani crediderunt Achiuos abisse.
-6. ___ cum Troani equum pro templo posuissent Achiui hunc exiērunt et Troia potiti sunt.
+6. Eam noctem cum Troani equum pro templo posuissent, Achiui hunc exiērunt et Troia potita est.
