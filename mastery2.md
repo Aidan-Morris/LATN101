@@ -28,6 +28,6 @@ Ablative|his imprudentibus filiis
 5. Cleops and Bitias **wanted to bring** their mother to the festival. ---- uoluerunt ferre ❌
 6. They yoked **themselves** to a wagon. ---- se
 7. They pulled the wagon **for many hours**. ---- multas horas
-8. When Cydippe was brought to the festival **by her sons**, all the onlookers were amazed. ---- ab eis❌ filiis
-9. Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals. ---- sibi et eis❌ filiis
+8. When Cydippe was brought to the festival **by her sons**, all the onlookers were amazed. ---- ab earum❌ filiis
+9. Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals. ---- sibi et earum❌ filiis
 10. **That night**, they fell asleep and never woke up. ---- ea nocte
