@@ -24,5 +24,5 @@ B. Grammatical Questions
 
 C. Translation
 Long ago, Prometheus, the first son of Iapetus, fashioned men out of mud. At the same time, Vulcanus made woman out of mud.
-Minerva gave a soul to this woman and all of the gods sent gifts to her❌. The name Pandora was given to her. **? *ob id*?**
+Minerva gave a soul to this woman and all of the gods sent gifts to her❌. Because of this, the name, "Pandora," was given to her. **? *ob id*?**
 Pandora was given to Epimetheus in marriage by Jupiter. Their daughter was Pyrrha, the first mortal.
