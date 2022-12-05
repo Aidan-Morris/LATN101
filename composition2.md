@@ -1,6 +1,6 @@
 **+1 Needs  revisions**
 
-Cydippe boues in agros missit❗️ *spelling*, sed boues non reddiderunt ad tempus.
+Cydippe boues in agros misit❗️ *spelling*, sed boues non reddiderunt ad tempus.
 Sacra duci debebant, et sacerdos duci adessebat❌ ad templa, sed Cydippe se in uniam❗️ *spelling* non erat❌ darebat.
 Cleops et Bitias uoluerunt ferre matrem Cydippen, sic ei se sub iugum iunxerunt.
 Hi Cydippen in plaustro multas horas traxerunt.
